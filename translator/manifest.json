@@ -1,0 +1,15 @@
+{
+  "name": "AI Translator",
+  "description": "Перевод, догонялка и объяснялка. Два ключа: качество и бесплатный объём. Команды /tr /ru /tri /explain /catchup",
+  "authors": [
+    {
+      "name": "hinako",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "aab0e4fd56497b81cc3c2e41613ab4a4fed47f1a8284bc60fc48826ed0902f14",
+  "vendetta": {
+    "icon": "ic_locale_24px"
+  }
+}

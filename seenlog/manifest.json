@@ -1,0 +1,15 @@
+{
+  "name": "Seen & Log",
+  "description": "Кто когда был в сети и что писал, плюс лог удалённых и изменённых сообщений с подсветкой",
+  "authors": [
+    {
+      "name": "hinako",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "f03348449fad8512505bcc144675f630b35f75ea9a739a5d4e134d0cd5da265d",
+  "vendetta": {
+    "icon": "ic_history_24px"
+  }
+}
